@@ -3,36 +3,6 @@
 
 For the most up-to-date status of features and implementations, please refer to our [Status Page](status.md).
 
-# App Screenshots
-
-## Light Mode
-
-![Preview in Light Mode](preview_light.png)
-
-## Dark Mode
-
-![Preview in Dark Mode](preview_dark.png)
-
-## App Settings
-
-![Preview in App Settings](preview_settings.png)
-
-## LTP Range Bar
-
-![Preview in LTP Range Bar](preview_ltprangebar.png)
-
-## One Click Trading Keys
-
-![Preview in One Click Trading](preview_oneclicktrade.png)
-
-## Add Broker
-
-![Preview in Add Broker](preview_addbroker_light.png)
-
-## Manage Brokers
-
-![Preview in Manage Brokers](preview_managebroker_light.png)
-
 # ⚡ Steps to run the app
 
 ### `Step 0`: Prerequisites
@@ -57,17 +27,16 @@ node -v && npm -v
 python -V
 ```
 
-### `Step 1`: Clone the Steadfast Monorepo
+### `Step 1`: Clone the Kotak-terminal
+
 
 1. Open your terminal or command prompt.
 2. Run the following command:
 
 ```bash
-git clone https://github.com/narenkram/steadfast-monorepo
+https://github.com/mohodar/Kotak-terminal.git
 ```
 
-3. This will create a new folder named "steadfast-monorepo" in your current directory.
-4. Open/Navigate the monorepo folder in file explorer.
 
 ### `Step 2`: Start
 
@@ -80,6 +49,7 @@ Double-click the `start-all.bat` file or run it from the command prompt.
 3. **Run existing version:** Runs the existing version of the services without updating or installing anything.
 4. **Exit:** Exits the script.
 
-echo "# Kotak-terminal"
+note only kotak broker is working good
 
-"# Kotak-terminal" 
+this app for option buyer and sellers
+
