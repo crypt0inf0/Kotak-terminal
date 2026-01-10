@@ -1,0 +1,6 @@
+websockets
+websocket_client
+requests
+NorenRestApi
+python-dotenv
+neo_api_client
