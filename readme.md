@@ -21,7 +21,7 @@ git --version
 node -v && npm -v
 ```
 
-3. Ensure [Python 3.12](https://www.python.org/downloads/) is installed and accessible from the command line.
+3. Ensure [Python 3.13](https://www.python.org/downloads/) is installed and accessible from the command line.
 
 ```
 python -V
